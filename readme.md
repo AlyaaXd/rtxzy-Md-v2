@@ -113,8 +113,8 @@ npm start
 # Heroku Buildpack
 ### Instal Buildpack
 * heroku/nodejs
-* https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
-* https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
+* https://github.com/HasibulKabir/heroku-buildpack-ffmpeg-ffprobe
+* https://github.com/xdlyy404/heroku-buildpack-ffmpeg-latest
 
 
 # Hargai Kami Dengan Menambahkan Kredit
